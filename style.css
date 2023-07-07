@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(45deg, lime, aqua, aquamarine) no-repeat fixed;
+    font-family: Courier;
+    font-weight: bold;
+}
+ul{
+    list-style: square;
+}
+input{
+    margin: 10px;
+}
+#sec{
+    background: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: rgb(0,0,0,0.363);
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+}
